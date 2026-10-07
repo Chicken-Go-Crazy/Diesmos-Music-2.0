@@ -19,3 +19,41 @@ Drake
     17 - Pop Style
     18 - Redemption
     19 - Controlla
+
+Michael Jackson
+  Dangerous
+    01 - Will You Be There
+    02 - Remember the Time
+    03 - Heal the World
+    04 - Give In to Me
+    05 - Jam
+    06 - Gone Too Soon
+    07 - Who Is It
+    08 - Dangerous
+    09 - Black or White
+    10 - In the Closet
+    11 - She Drives Me Wild
+    12 - Why You Wanna Trip on Me
+    13 - Keep the Faith
+    14 - Can't Let Her Get Away
+  Off the Wall
+    01 - Get on the Floor
+    02 - Off the Wall
+    03 - Girlfriend
+    04 - Workin' Day and Night
+    05 - Rock with You (Single Version)
+    06 - I Can't Help It
+    07 - It's the Falling in Love
+    08 - She's Out of My Life
+    09 - Don't Stop 'Til You Get Enough
+    10 - Burn This Disco Out
+  Thriller
+    01 - Baby Be Mine
+    02 - Human Nature
+    03 - P.Y.T. (Pretty Young Thing)
+    04 - The Girl Is Mine
+    05 - Beat It
+    06 - Thriller
+    07 - Wanna Be Startin' Somethin'
+    08 - The Lady in My Life
+    09 - Billie Jean

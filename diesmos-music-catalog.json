@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "source": "Chicken-Go-Crazy/Diesmos-Music-2.0",
   "branch": "main",
-  "generatedAt": "2026-10-07T20:20:05.134154+00:00",
+  "generatedAt": "2026-10-07T20:46:31.999073+00:00",
   "artists": [
     {
       "name": "ekarD",
@@ -199,6 +199,359 @@
               "filename": "26760869fa58dede.mp3",
               "path": "d78c749183b4ba51/dccd07cff5afc9bd/26760869fa58dede.mp3",
               "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/d78c749183b4ba51/dccd07cff5afc9bd/26760869fa58dede.mp3",
+              "coverArtUrl": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "noskcaJ leahciM",
+      "albums": [
+        {
+          "name": "suoregnaD",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "erehT eB uoY lliW",
+              "track": 1,
+              "artist": "noskcaJ leahciM",
+              "album": "suoregnaD",
+              "filename": "b0c52ee1b01484c1.mp3",
+              "path": "b5ce3163f3f6811b/e23e58d296fbfbb2/b0c52ee1b01484c1.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/e23e58d296fbfbb2/b0c52ee1b01484c1.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "emiT eht rebmemeR",
+              "track": 2,
+              "artist": "noskcaJ leahciM",
+              "album": "suoregnaD",
+              "filename": "0fff3965a6739a02.mp3",
+              "path": "b5ce3163f3f6811b/e23e58d296fbfbb2/0fff3965a6739a02.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/e23e58d296fbfbb2/0fff3965a6739a02.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "dlroW eht laeH",
+              "track": 3,
+              "artist": "noskcaJ leahciM",
+              "album": "suoregnaD",
+              "filename": "37c70ff8912f599b.mp3",
+              "path": "b5ce3163f3f6811b/e23e58d296fbfbb2/37c70ff8912f599b.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/e23e58d296fbfbb2/37c70ff8912f599b.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "eM ot nI eviG",
+              "track": 4,
+              "artist": "noskcaJ leahciM",
+              "album": "suoregnaD",
+              "filename": "959414d245b25e88.mp3",
+              "path": "b5ce3163f3f6811b/e23e58d296fbfbb2/959414d245b25e88.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/e23e58d296fbfbb2/959414d245b25e88.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "maJ",
+              "track": 5,
+              "artist": "noskcaJ leahciM",
+              "album": "suoregnaD",
+              "filename": "b8c8dfb6eadb9c6b.mp3",
+              "path": "b5ce3163f3f6811b/e23e58d296fbfbb2/b8c8dfb6eadb9c6b.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/e23e58d296fbfbb2/b8c8dfb6eadb9c6b.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "nooS ooT enoG",
+              "track": 6,
+              "artist": "noskcaJ leahciM",
+              "album": "suoregnaD",
+              "filename": "35723aedf8655ace.mp3",
+              "path": "b5ce3163f3f6811b/e23e58d296fbfbb2/35723aedf8655ace.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/e23e58d296fbfbb2/35723aedf8655ace.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "tI sI ohW",
+              "track": 7,
+              "artist": "noskcaJ leahciM",
+              "album": "suoregnaD",
+              "filename": "76153cd6a519abd9.mp3",
+              "path": "b5ce3163f3f6811b/e23e58d296fbfbb2/76153cd6a519abd9.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/e23e58d296fbfbb2/76153cd6a519abd9.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "suoregnaD",
+              "track": 8,
+              "artist": "noskcaJ leahciM",
+              "album": "suoregnaD",
+              "filename": "71ae3127df82b253.mp3",
+              "path": "b5ce3163f3f6811b/e23e58d296fbfbb2/71ae3127df82b253.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/e23e58d296fbfbb2/71ae3127df82b253.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "etihW ro kcalB",
+              "track": 9,
+              "artist": "noskcaJ leahciM",
+              "album": "suoregnaD",
+              "filename": "022460ac691a73bc.mp3",
+              "path": "b5ce3163f3f6811b/e23e58d296fbfbb2/022460ac691a73bc.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/e23e58d296fbfbb2/022460ac691a73bc.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "tesolC eht nI",
+              "track": 10,
+              "artist": "noskcaJ leahciM",
+              "album": "suoregnaD",
+              "filename": "4d7eb4edc51e51dd.mp3",
+              "path": "b5ce3163f3f6811b/e23e58d296fbfbb2/4d7eb4edc51e51dd.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/e23e58d296fbfbb2/4d7eb4edc51e51dd.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "dliW eM sevirD ehS",
+              "track": 11,
+              "artist": "noskcaJ leahciM",
+              "album": "suoregnaD",
+              "filename": "9114b8de3edb2a53.mp3",
+              "path": "b5ce3163f3f6811b/e23e58d296fbfbb2/9114b8de3edb2a53.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/e23e58d296fbfbb2/9114b8de3edb2a53.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "eM no pirT annaW uoY yhW",
+              "track": 12,
+              "artist": "noskcaJ leahciM",
+              "album": "suoregnaD",
+              "filename": "6fcae1f516a4ad24.mp3",
+              "path": "b5ce3163f3f6811b/e23e58d296fbfbb2/6fcae1f516a4ad24.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/e23e58d296fbfbb2/6fcae1f516a4ad24.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "htiaF eht peeK",
+              "track": 13,
+              "artist": "noskcaJ leahciM",
+              "album": "suoregnaD",
+              "filename": "fd603b2cb971c6f5.mp3",
+              "path": "b5ce3163f3f6811b/e23e58d296fbfbb2/fd603b2cb971c6f5.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/e23e58d296fbfbb2/fd603b2cb971c6f5.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "yawA teG reH teL t'naC",
+              "track": 14,
+              "artist": "noskcaJ leahciM",
+              "album": "suoregnaD",
+              "filename": "5fc98fa04e2dbf64.mp3",
+              "path": "b5ce3163f3f6811b/e23e58d296fbfbb2/5fc98fa04e2dbf64.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/e23e58d296fbfbb2/5fc98fa04e2dbf64.mp3",
+              "coverArtUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "llaW eht ffO",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "roolF eht no teG",
+              "track": 1,
+              "artist": "noskcaJ leahciM",
+              "album": "llaW eht ffO",
+              "filename": "338a03effe85bc38.mp3",
+              "path": "b5ce3163f3f6811b/4e4063fe976d666e/338a03effe85bc38.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/4e4063fe976d666e/338a03effe85bc38.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "llaW eht ffO",
+              "track": 2,
+              "artist": "noskcaJ leahciM",
+              "album": "llaW eht ffO",
+              "filename": "a84b9aac1e473c0d.mp3",
+              "path": "b5ce3163f3f6811b/4e4063fe976d666e/a84b9aac1e473c0d.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/4e4063fe976d666e/a84b9aac1e473c0d.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "dneirflriG",
+              "track": 3,
+              "artist": "noskcaJ leahciM",
+              "album": "llaW eht ffO",
+              "filename": "7de4bc50bd3aeaae.mp3",
+              "path": "b5ce3163f3f6811b/4e4063fe976d666e/7de4bc50bd3aeaae.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/4e4063fe976d666e/7de4bc50bd3aeaae.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "thgiN dna yaD 'nikroW",
+              "track": 4,
+              "artist": "noskcaJ leahciM",
+              "album": "llaW eht ffO",
+              "filename": "4c77cb5021f1c602.mp3",
+              "path": "b5ce3163f3f6811b/4e4063fe976d666e/4c77cb5021f1c602.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/4e4063fe976d666e/4c77cb5021f1c602.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": ")noisreV elgniS( uoY htiw kcoR",
+              "track": 5,
+              "artist": "noskcaJ leahciM",
+              "album": "llaW eht ffO",
+              "filename": "88255df7e9e6a4ad.mp3",
+              "path": "b5ce3163f3f6811b/4e4063fe976d666e/88255df7e9e6a4ad.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/4e4063fe976d666e/88255df7e9e6a4ad.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "tI pleH t'naC I",
+              "track": 6,
+              "artist": "noskcaJ leahciM",
+              "album": "llaW eht ffO",
+              "filename": "dbfcfec67bf76dcb.mp3",
+              "path": "b5ce3163f3f6811b/4e4063fe976d666e/dbfcfec67bf76dcb.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/4e4063fe976d666e/dbfcfec67bf76dcb.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "evoL ni gnillaF eht s'tI",
+              "track": 7,
+              "artist": "noskcaJ leahciM",
+              "album": "llaW eht ffO",
+              "filename": "6e8eb5f4a6f11fcb.mp3",
+              "path": "b5ce3163f3f6811b/4e4063fe976d666e/6e8eb5f4a6f11fcb.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/4e4063fe976d666e/6e8eb5f4a6f11fcb.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "efiL yM fo tuO s'ehS",
+              "track": 8,
+              "artist": "noskcaJ leahciM",
+              "album": "llaW eht ffO",
+              "filename": "bbf2604702a3913d.mp3",
+              "path": "b5ce3163f3f6811b/4e4063fe976d666e/bbf2604702a3913d.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/4e4063fe976d666e/bbf2604702a3913d.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "hguonE teG uoY liT' potS t'noD",
+              "track": 9,
+              "artist": "noskcaJ leahciM",
+              "album": "llaW eht ffO",
+              "filename": "a85a021ea914d7aa.mp3",
+              "path": "b5ce3163f3f6811b/4e4063fe976d666e/a85a021ea914d7aa.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/4e4063fe976d666e/a85a021ea914d7aa.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "tuO ocsiD sihT nruB",
+              "track": 10,
+              "artist": "noskcaJ leahciM",
+              "album": "llaW eht ffO",
+              "filename": "08341083fa185f5b.mp3",
+              "path": "b5ce3163f3f6811b/4e4063fe976d666e/08341083fa185f5b.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/4e4063fe976d666e/08341083fa185f5b.mp3",
+              "coverArtUrl": ""
+            }
+          ]
+        },
+        {
+          "name": "rellirhT",
+          "coverArtUrl": "",
+          "songs": [
+            {
+              "title": "eniM eB ybaB",
+              "track": 1,
+              "artist": "noskcaJ leahciM",
+              "album": "rellirhT",
+              "filename": "e58fd08adcd813fc.mp3",
+              "path": "b5ce3163f3f6811b/b09977b0ee8e6ee4/e58fd08adcd813fc.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/b09977b0ee8e6ee4/e58fd08adcd813fc.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "erutaN namuH",
+              "track": 2,
+              "artist": "noskcaJ leahciM",
+              "album": "rellirhT",
+              "filename": "5698a94a4be26c13.mp3",
+              "path": "b5ce3163f3f6811b/b09977b0ee8e6ee4/5698a94a4be26c13.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/b09977b0ee8e6ee4/5698a94a4be26c13.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": ")gnihT gnuoY ytterP( .T.Y.P",
+              "track": 3,
+              "artist": "noskcaJ leahciM",
+              "album": "rellirhT",
+              "filename": "216ff830a9d544bd.mp3",
+              "path": "b5ce3163f3f6811b/b09977b0ee8e6ee4/216ff830a9d544bd.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/b09977b0ee8e6ee4/216ff830a9d544bd.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "eniM sI lriG ehT",
+              "track": 4,
+              "artist": "noskcaJ leahciM",
+              "album": "rellirhT",
+              "filename": "abf4cf4e57b5f21e.mp3",
+              "path": "b5ce3163f3f6811b/b09977b0ee8e6ee4/abf4cf4e57b5f21e.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/b09977b0ee8e6ee4/abf4cf4e57b5f21e.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "tI taeB",
+              "track": 5,
+              "artist": "noskcaJ leahciM",
+              "album": "rellirhT",
+              "filename": "a1a72d56553f736c.mp3",
+              "path": "b5ce3163f3f6811b/b09977b0ee8e6ee4/a1a72d56553f736c.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/b09977b0ee8e6ee4/a1a72d56553f736c.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "rellirhT",
+              "track": 6,
+              "artist": "noskcaJ leahciM",
+              "album": "rellirhT",
+              "filename": "b5ae57a2e96ed840.mp3",
+              "path": "b5ce3163f3f6811b/b09977b0ee8e6ee4/b5ae57a2e96ed840.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/b09977b0ee8e6ee4/b5ae57a2e96ed840.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "'nihtemoS 'nitratS eB annaW",
+              "track": 7,
+              "artist": "noskcaJ leahciM",
+              "album": "rellirhT",
+              "filename": "9c7412b567505558.mp3",
+              "path": "b5ce3163f3f6811b/b09977b0ee8e6ee4/9c7412b567505558.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/b09977b0ee8e6ee4/9c7412b567505558.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "efiL yM ni ydaL ehT",
+              "track": 8,
+              "artist": "noskcaJ leahciM",
+              "album": "rellirhT",
+              "filename": "5b3c0d5b02496764.mp3",
+              "path": "b5ce3163f3f6811b/b09977b0ee8e6ee4/5b3c0d5b02496764.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/b09977b0ee8e6ee4/5b3c0d5b02496764.mp3",
+              "coverArtUrl": ""
+            },
+            {
+              "title": "naeJ eilliB",
+              "track": 9,
+              "artist": "noskcaJ leahciM",
+              "album": "rellirhT",
+              "filename": "a9cb03b6af023b0f.mp3",
+              "path": "b5ce3163f3f6811b/b09977b0ee8e6ee4/a9cb03b6af023b0f.mp3",
+              "url": "https://testingcf.jsdelivr.net/gh/Chicken-Go-Crazy/Diesmos-Music-2.0@main/b5ce3163f3f6811b/b09977b0ee8e6ee4/a9cb03b6af023b0f.mp3",
               "coverArtUrl": ""
             }
           ]
